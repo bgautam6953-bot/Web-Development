@@ -1,0 +1,22 @@
+body {
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+h2 {
+    color: green;
+}
+
+p {
+    color: black;
+}
+
+.highlight {
+    color: red;
+    font-weight: bold;
+}
